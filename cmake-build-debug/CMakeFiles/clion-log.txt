@@ -1,0 +1,7 @@
+"D:\IDEs\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/IDEs/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja D:\project\acwing-practise
+    -- src/HelloWorld.cpp will be compiled to bin/HelloWorld
+    -- src/CMakeCXXCompilerId.cpp will be compiled to bin/CMakeCXXCompilerId
+    -- src/sort.cpp will be compiled to bin/sort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/project/acwing-practise/cmake-build-debug

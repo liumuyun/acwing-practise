@@ -1,0 +1,7 @@
+# ninja log v5
+1	466	6672329494872206	CMakeFiles/acwing_practise.dir/main.cpp.obj	ff50543691303d27
+468	723	6672330832815378	acwing_practise.exe	c7ea572ff3b6d52b
+1	410	6672332028668704	build.ninja	782a9caf606d22cd
+1	467	6672330830296706	CMakeFiles/acwing_practise.dir/HelloWorld.cpp.obj	7cb5d51a0eece0b7
+1	482	6672332092529106	CMakeFiles/sort.dir/sort.cpp.obj	5e039fd1d3346bfa
+483	738	6672332095033141	sort.exe	33acf504a9e2e438

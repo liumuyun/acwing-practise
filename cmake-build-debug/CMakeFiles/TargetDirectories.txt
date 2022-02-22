@@ -1,0 +1,6 @@
+D:/project/acwing-practise/cmake-build-debug/CMakeFiles/acwing_practise.dir
+D:/project/acwing-practise/cmake-build-debug/CMakeFiles/sort.dir
+D:/project/acwing-practise/cmake-build-debug/CMakeFiles/HelloWorld.dir
+D:/project/acwing-practise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/project/acwing-practise/cmake-build-debug/CMakeFiles/CMakeCXXCompilerId.dir
+D:/project/acwing-practise/cmake-build-debug/CMakeFiles/edit_cache.dir
